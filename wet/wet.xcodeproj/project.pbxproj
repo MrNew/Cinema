@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0FCAF46E204BF7E00041B69C /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0FCAF46D204BF7E00041B69C /* SecondViewController.m */; };
+		0FCAF471204BF7EC0041B69C /* ThirdViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0FCAF470204BF7EC0041B69C /* ThirdViewController.m */; };
 		3FFCE1A11CD99397009A8879 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 3FFCE1A01CD99397009A8879 /* main.m */; };
 		3FFCE1A41CD99397009A8879 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 3FFCE1A31CD99397009A8879 /* AppDelegate.m */; };
 		3FFCE1A71CD99397009A8879 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3FFCE1A61CD99397009A8879 /* ViewController.m */; };
@@ -35,6 +37,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0FCAF46C204BF7E00041B69C /* SecondViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
+		0FCAF46D204BF7E00041B69C /* SecondViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
+		0FCAF46F204BF7EC0041B69C /* ThirdViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ThirdViewController.h; sourceTree = "<group>"; };
+		0FCAF470204BF7EC0041B69C /* ThirdViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ThirdViewController.m; sourceTree = "<group>"; };
 		3FFCE19C1CD99397009A8879 /* wet.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = wet.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3FFCE1A01CD99397009A8879 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		3FFCE1A21CD99397009A8879 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -105,6 +111,10 @@
 				3FFCE1A31CD99397009A8879 /* AppDelegate.m */,
 				3FFCE1A51CD99397009A8879 /* ViewController.h */,
 				3FFCE1A61CD99397009A8879 /* ViewController.m */,
+				0FCAF46C204BF7E00041B69C /* SecondViewController.h */,
+				0FCAF46D204BF7E00041B69C /* SecondViewController.m */,
+				0FCAF46F204BF7EC0041B69C /* ThirdViewController.h */,
+				0FCAF470204BF7EC0041B69C /* ThirdViewController.m */,
 				3FFCE1A81CD99397009A8879 /* Main.storyboard */,
 				3FFCE1AB1CD99397009A8879 /* Assets.xcassets */,
 				3FFCE1AD1CD99397009A8879 /* LaunchScreen.storyboard */,
@@ -273,6 +283,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0FCAF46E204BF7E00041B69C /* SecondViewController.m in Sources */,
+				0FCAF471204BF7EC0041B69C /* ThirdViewController.m in Sources */,
 				3FFCE1A71CD99397009A8879 /* ViewController.m in Sources */,
 				3FFCE1A41CD99397009A8879 /* AppDelegate.m in Sources */,
 				3FFCE1A11CD99397009A8879 /* main.m in Sources */,
@@ -501,6 +513,7 @@
 				3FFCE1CB1CD99397009A8879 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3FFCE1CC1CD99397009A8879 /* Build configuration list for PBXNativeTarget "wetTests" */ = {
 			isa = XCConfigurationList;
@@ -509,6 +522,7 @@
 				3FFCE1CE1CD99397009A8879 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3FFCE1CF1CD99397009A8879 /* Build configuration list for PBXNativeTarget "wetUITests" */ = {
 			isa = XCConfigurationList;
@@ -517,6 +531,7 @@
 				3FFCE1D11CD99397009A8879 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
