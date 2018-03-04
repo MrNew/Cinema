@@ -17,9 +17,23 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
-    
-    
+
     [[UIView alloc] init];
+    NSLog(@"sdfsdfsdfasdfsadf");
+    
+    
+    
+    NSLog(@"sdfsdfsdfasdfsadf");
+    
+    
+    
+    
+    NSLog(@"sdfsdfsdfasdfsadf");
+    
+    
+    
+    
+    NSLog(@"sdfsdfsdfasdfsadf");
 }
 
 - (void)didReceiveMemoryWarning {
