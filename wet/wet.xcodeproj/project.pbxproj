@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0F6BF748204BFDD600406757 /* FouthViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F6BF747204BFDD600406757 /* FouthViewController.m */; };
 		0FCAF46E204BF7E00041B69C /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0FCAF46D204BF7E00041B69C /* SecondViewController.m */; };
 		0FCAF471204BF7EC0041B69C /* ThirdViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0FCAF470204BF7EC0041B69C /* ThirdViewController.m */; };
 		3FFCE1A11CD99397009A8879 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 3FFCE1A01CD99397009A8879 /* main.m */; };
@@ -37,6 +38,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0F6BF746204BFDD600406757 /* FouthViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FouthViewController.h; sourceTree = "<group>"; };
+		0F6BF747204BFDD600406757 /* FouthViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FouthViewController.m; sourceTree = "<group>"; };
 		0FCAF46C204BF7E00041B69C /* SecondViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
 		0FCAF46D204BF7E00041B69C /* SecondViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
 		0FCAF46F204BF7EC0041B69C /* ThirdViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ThirdViewController.h; sourceTree = "<group>"; };
@@ -115,6 +118,8 @@
 				0FCAF46D204BF7E00041B69C /* SecondViewController.m */,
 				0FCAF46F204BF7EC0041B69C /* ThirdViewController.h */,
 				0FCAF470204BF7EC0041B69C /* ThirdViewController.m */,
+				0F6BF746204BFDD600406757 /* FouthViewController.h */,
+				0F6BF747204BFDD600406757 /* FouthViewController.m */,
 				3FFCE1A81CD99397009A8879 /* Main.storyboard */,
 				3FFCE1AB1CD99397009A8879 /* Assets.xcassets */,
 				3FFCE1AD1CD99397009A8879 /* LaunchScreen.storyboard */,
@@ -286,6 +291,7 @@
 				0FCAF46E204BF7E00041B69C /* SecondViewController.m in Sources */,
 				0FCAF471204BF7EC0041B69C /* ThirdViewController.m in Sources */,
 				3FFCE1A71CD99397009A8879 /* ViewController.m in Sources */,
+				0F6BF748204BFDD600406757 /* FouthViewController.m in Sources */,
 				3FFCE1A41CD99397009A8879 /* AppDelegate.m in Sources */,
 				3FFCE1A11CD99397009A8879 /* main.m in Sources */,
 			);
